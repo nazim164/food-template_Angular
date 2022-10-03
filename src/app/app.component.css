@@ -1,0 +1,426 @@
+.containers {
+    position: relative;
+    text-align: center;
+    color: black;
+}
+
+.top-left {
+    position: absolute;
+    top: 120px;
+    left: 180px;
+    line-height: 25px;
+    color: rgb(13, 66, 47);
+
+}
+
+p {
+    margin: 0;
+    padding: 0;
+    /* margin-top: 10px; */
+}
+
+.para {
+    margin-top: -240px;
+    color: rgba(50, 211, 161, 255);
+}
+
+.input-icons {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.icon {
+    padding: 10px;
+    /* min-width: -100px; */
+    margin-left: -320px;
+    color: rgb(153, 183, 157);
+}
+
+.input-field {
+    border-radius: 20px;
+    border: 0.5px solid rgb(37, 160, 114);
+    width: 25%;
+    padding: 5px;
+    /* text-align: left; */
+    padding-left: 25px;
+    margin-left: -320px;
+}
+
+.find-btn {
+    border: 0.5px solid rgb(153, 183, 157);
+    border-radius: 20px;
+    width: 85px;
+    /* line-height: 40px; */
+    font-size: 16px;
+    padding: 5px;
+    background-color: rgba(50, 211, 161, 255);
+    margin-left: -60px;
+}
+
+
+.input-icons i {
+    position: absolute;
+}
+
+.mid {
+    background-color: rgba(237, 243, 241, 255);
+    padding: 100px;
+    margin-top: -50px;
+    padding-bottom: 140px;
+    display: flex;
+    /* align-items: center; */
+}
+
+.fa-circle-arrow-left {
+    color: rgb(37, 160, 114);
+    margin-left: 220px;
+    font-size: 25px;
+    padding: 2px;
+    margin-top: -50px;
+}
+
+.fa-circle-arrow-right {
+    color: rgb(37, 160, 114);
+    /* margin-left: 220px; */
+    font-size: 25px;
+    padding: 2px;
+    margin-top: -50px;
+}
+
+.resturant {
+    margin-top: -50px;
+    margin-left: 20px;
+}
+
+/* h4 {
+    margin-left: 160px;
+    line-height: 100px;
+} */
+
+
+
+.burger {
+    display: flex;
+    margin-top: -100px;
+    margin-left: 170px;
+    width: 137px;
+    border-radius: 5px;
+    height: 50px;
+    background-color: white;
+    padding: 30px;
+}
+
+.img-burger {
+    margin-top: -18px;
+    margin-left: -20px;
+}
+
+.burger-name {
+    margin-top: -10px;
+    margin-left: 8px;
+    font-weight: 550;
+    font-size: 10px;
+}
+
+.starbucks {
+    margin-top: -100px;
+    margin-left: 20px;
+    width: 137px;
+    border-radius: 5px;
+    height: 50px;
+    background-color: white;
+    padding: 30px;
+}
+
+.img-starbucks {
+    margin-top: -20px;
+    margin-left: -20px;
+}
+
+.starbucks-name {
+    /* margin-right: 250px; */
+    margin-top: -30px;
+    margin-left: 30px;
+    font-weight: 550;
+    font-size: 10px;
+}
+
+.burger02 {
+    display: flex;
+    margin-top: -100px;
+    margin-left: 20px;
+    width: 137px;
+    border-radius: 5px;
+    height: 50px;
+    background-color: white;
+    padding: 30px;
+}
+
+.img-burger02 {
+    margin-top: -18px;
+    margin-left: -20px;
+}
+
+.burger-name02 {
+    margin-top: -10px;
+    margin-left: 8px;
+    font-weight: 550;
+    font-size: 10px;
+}
+
+.head5 {
+    margin-left: 80px;
+    color: rgb(13, 66, 47);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.burger-content {
+    margin-top: -60px;
+    font-weight: 500;
+}
+
+
+
+
+.container02 {
+    position: relative;
+    text-align: center;
+    color: black;
+}
+
+.paragraph {
+    font-size: 20px;
+}
+
+.top-right {
+    position: absolute;
+    margin-top: 60px;
+    margin-right: 140px;
+    top: 50px;
+    right: 50px;
+    font-weight: 600;
+    color: rgb(13, 66, 47);
+}
+
+
+.top-right02 {
+    margin-top: -310px;
+    margin-left: 250px;
+    /* margin-right: -70px; */
+    font-weight: 600;
+    color: rgb(13, 66, 47);
+}
+
+.top-right03 {
+    margin-top: -20px;
+    margin-left: 90px;
+    font-weight: 600;
+    color: rgb(13, 66, 47);
+}
+
+.lorem-para {
+    font-size: 9px;
+    color: rgba(50, 211, 161, 255);
+}
+
+.lorem-para1 {
+    margin-left: 295px;
+    margin-top: -10px;
+}
+
+.lorem-para2 {
+    margin-left: 298px;
+    margin-top: -25px;
+}
+
+.lorem-para3 {
+    margin-left: 300px;
+    margin-top: -25px;
+}
+
+.lorem-para4 {
+    margin-left: 215px;
+    margin-top: -5px;
+}
+
+.lorem-para5 {
+    margin-left: 275px;
+    /* font-size: 9px; */
+    margin-top: -15px;
+}
+
+.lorem-para6 {
+    margin-left: 225px;
+    margin-top: -5px;
+    /* font-size: 9px; */
+    /* line-height: 0.5em; */
+}
+
+
+.clk-btn {
+    margin-left: 95px;
+    width: 80px;
+    background-color: rgba(50, 211, 161, 255);
+    color: white;
+    border: 0.5px solid rgba(50, 211, 161, 255);
+    border-radius: 50px;
+    font-size: 9px;
+    margin-top: -300px;
+}
+
+.footer-section {
+    background-color: rgba(0, 65, 41, 255);
+    padding: 40px;
+}
+
+.logo {
+    /* background-color: rgb(37, 160, 114); */
+    margin-left: 100%;
+    display: flex;
+}
+
+.logoimg {
+    margin-left: -730px;
+}
+
+.img-logofoot {
+    margin-top: -20px;
+}
+
+.logotext {
+    margin-top: -10px;
+}
+
+
+
+.para-section01 {
+    font-size: 10px;
+    color: rgba(85, 128, 111, 255);
+    margin-top: 30px;
+}
+
+.para-first-line {
+    margin-top: -75px;
+    margin-right: 160px;
+
+}
+
+.para-second-line {
+    margin-top: -22px;
+    margin-right: 193px;
+
+}
+
+.para-third-line {
+    margin-top: -22px;
+    margin-right: 165px;
+
+}
+
+.para-forth-line {
+    margin-top: -22px;
+    margin-right: 175px;
+
+}
+
+.para-fiveth-line {
+    margin-top: -22px;
+    margin-right: 190px;
+
+}
+
+
+.para-section02 {
+    font-size: 10px;
+    color: rgba(85, 128, 111, 255);
+    margin-left: -20px;
+}
+
+.second-para-first-line {
+    margin-top: -92px;
+    margin-left: 120px;
+}
+
+.second-para-second-line {
+    margin-top: -23px;
+    margin-left: 148px;
+}
+
+.second-para-third-line {
+    margin-top: -20px;
+    margin-left: 180px;
+}
+
+.second-para-fourth-line {
+    margin-top: -23px;
+    margin-left: 205px;
+}
+
+.second-para-fivth-line {
+    margin-top: -20px;
+    margin-left: 195px;
+}
+
+.para-section03 {
+    font-size: 10px;
+    color: rgba(85, 128, 111, 255)
+}
+
+.third-para-first-line {
+    margin-top: -93px;
+    margin-left: 470px;
+}
+
+.third-para-second-line {
+    margin-top: -24px;
+    margin-left: 440px;
+}
+
+.third-para-third-line {
+    margin-top: -20px;
+    margin-left: 460px;
+}
+
+.third-para-fourth-line {
+    margin-top: -22px;
+    margin-left: 450px;
+}
+
+.third-para-fivth-line {
+    margin-top: -20px;
+    margin-left: 420px;
+}
+
+.horizontal-line {
+    margin-left: 130px;
+    margin-right: 130px;
+}
+
+.Copyright-para {
+    font-size: 9px;
+    margin-right: 445px;
+    margin-top: -10px;
+}
+
+.fa-facebook-f {
+    color: white;
+    margin-left: 560px;
+    font-size: 10px;
+
+}
+
+.fb-icon {
+    margin-top: -25px;
+}
+
+.fa-instagram {
+    color: white;
+    margin-left: 590px;
+    font-size: 10px;
+}
+
+.insta-icon {
+    margin-top: -20px;
+}
